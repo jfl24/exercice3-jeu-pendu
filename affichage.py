@@ -195,3 +195,27 @@ vie_0 = print(r"""
                         |
                     =========
 """)
+
+def afficher_pendu(erreurs):
+    if erreurs == 0:
+        print(vie_10)
+    elif erreurs == 1:
+        print(vie_9)
+    elif erreurs == 2:
+        print(vie_8)
+    elif erreurs == 3:
+        print(vie_7)
+    elif erreurs == 4:
+        print(vie_6)
+    elif erreurs == 5:
+        print(vie_5)
+    elif erreurs == 6:
+        print(vie_4)
+    elif erreurs == 7:
+        print(vie_3)
+    elif erreurs == 8:
+        print(vie_2)
+    elif erreurs == 9:
+        print(vie_1)
+    else:
+        print(vie_0)
