@@ -1,4 +1,5 @@
 
+import random
 from mots import choisir_mot       
 from affichage import afficher_pendu  
 from jeu import jouer_tour         
