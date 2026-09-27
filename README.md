@@ -7,4 +7,6 @@ Projet en Python de jeu du pendu (deviner le mot secret)
 
 ## 🚀 Lancement local :
 ```bash
-git clone 
+git clone https://github.com/jfl24/exercice3-jeu-pendu.git
+cd exercice3-jeu-pendu
+py main.py
